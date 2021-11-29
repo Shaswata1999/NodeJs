@@ -1,0 +1,4 @@
+1. install nodemailer package (npm i nodemailer)
+2. allow less secure app 
+3. Write program
+4. Check mail 

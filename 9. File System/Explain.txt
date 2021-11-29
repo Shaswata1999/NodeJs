@@ -1,0 +1,12 @@
+I shall write all the procedure here and also read this file.
+
+===================================================================
+1. We have to require the read file in the variable.
+
+2. Create server and make callbake function (res and req).
+
+3. <variable_name>.readfile('<file_name>',<another callback function>(err,data))
+
+    4. writeHead(200,{'content-Type':'content type of the file'})
+    5. write the data
+    6. return -> server end

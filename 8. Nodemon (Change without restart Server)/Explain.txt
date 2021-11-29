@@ -1,0 +1,6 @@
+When we create a server and change something in our code then we first we have to stop the server and start again.
+To overcome this problem we use nodemon.
+======================================================================
+
+1. Install nodemon --> npm i -g nodemon.
+2. Run command:- nodemon <FileName>

@@ -1,0 +1,5 @@
+1. Add any dependencisies from https://www.npmjs.com/
+2. install the dependencisies using command.
+3. Here we will add upper case dependencisies.
+4. run this command --> npm install upper-case --save
+5. All this add in package-lock.json.

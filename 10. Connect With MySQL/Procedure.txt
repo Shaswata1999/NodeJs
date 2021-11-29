@@ -1,0 +1,3 @@
+1. At first we need mysql package.
+
+    install mysql package :- npm install mysql
